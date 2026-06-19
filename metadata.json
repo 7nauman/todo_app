@@ -1,0 +1,6 @@
+{
+  "name": "Todo List",
+  "description": "A beautifully polished, intuitive, and fully functional Material 3 task manager with Room local database, search filtering, and categorized lists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
